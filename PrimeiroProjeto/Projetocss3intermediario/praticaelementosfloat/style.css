@@ -1,0 +1,8 @@
+#principal {
+    width: 920px;
+    border: 1px solid red;
+    text-align: center;
+}
+.color{
+    background-color: rgb(125, 255, 4);
+}
